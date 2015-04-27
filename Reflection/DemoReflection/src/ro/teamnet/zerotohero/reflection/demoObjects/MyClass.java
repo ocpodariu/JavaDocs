@@ -6,6 +6,11 @@ public class MyClass extends SuperClass {
     class InnerClass{
     }
 
-    A a;
-    B b;
+    public A a;
+    private B b;
+
+    public void methodA(String par1){
+    }
+    private void methodB(long par1){
+    }
 }

@@ -16,11 +16,6 @@ public class ClassReflectionDemo {
         c = E.A.getClass();
         System.out.println(c);
 
-        //get class for byte[]
-        byte[] bytes = new byte[1024];
-        c = bytes.getClass();
-        System.out.println(c);
-
         //get class for collections
         Set<String> s = new HashSet<>();
         c = s.getClass();
