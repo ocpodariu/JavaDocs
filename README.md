@@ -6,4 +6,4 @@
 2. Maven & JUnit - [zth-maven](https://github.com/ocpodariu/zth-maven)
 3. Collections - [zth-collections](https://github.com/ocpodariu/zth-collections)
 4. SQL - [zth-sql](https://github.com/ocpodariu/zth-sql)
-5. Reflection - [zth-reflection](https://github.com/ocpodariu/zth-reflection)
+5. Reflection & JDBC - [zth-reflection](https://github.com/ocpodariu/zth-reflection)
