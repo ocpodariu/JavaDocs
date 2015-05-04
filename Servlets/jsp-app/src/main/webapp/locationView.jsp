@@ -1,6 +1,6 @@
-<%@ page import="ro.teamnet.z2h.domain.Employee" %>
+<%@ page import="ro.teamnet.zth.appl.domain.Location" %>
 <%@ page import="java.util.List" %>
-<%@ page import="ro.teamnet.z2h.dao.EmployeeDao" %>
+<%@ page import="ro.teamnet.zth.appl.dao.LocationDao" %>
 <%@ page import="java.text.SimpleDateFormat" %>
 <%--
   Created by IntelliJ IDEA.
@@ -12,7 +12,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Employee List</title>
+    <title>Locations List</title>
 </head>
 <body>
 
@@ -20,13 +20,10 @@
     <thead>
     <tr>
         <td>Id</td>
-        <td>First Name</td>
-        <td>Last Name</td>
-        <td>Salary</td>
-        <td>Email</td>
-        <td>Hire Date</td>
-        <td>Phone Number</td>
-        <td>Commission Points</td>
+        <td>Street address</td>
+        <td>Postal code</td>
+        <td>City</td>
+        <td>State province</td>
     </tr>
     </thead>
     <tbody>
@@ -35,11 +32,11 @@
 
     %>
     <tr>
-        <!--TODO de completat cu cod pentru a afisa detaliile angajatului cu id-ul trimis din employeelist.jsp in momentul in care se acceseaza link-ul 'View'-->
+        <!--TODO de completat cu cod pentru a afisa detaliile locatiei cu id-ul trimis din locationlist.jsp in momentul in care se acceseaza link-ul 'View'-->
     </tr>
 
     </tbody>
 </table>
-<a href="employeeList.jsp">Employee List</a>
+<a href="locationList.jsp">Locations List</a>
 </body>
 </html>
