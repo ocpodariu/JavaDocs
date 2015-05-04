@@ -8,7 +8,7 @@
  * written consent of Teamnet.
  **/
 
-package ro.teamnet.z2h.web;
+package ro.teamnet.zth.web;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
