@@ -7,3 +7,5 @@
 3. Collections - [zth-collections](https://github.com/ocpodariu/zth-collections)
 4. SQL - [zth-sql](https://github.com/ocpodariu/zth-sql)
 5. Reflection & JDBC - [zth-reflection](https://github.com/ocpodariu/zth-reflection)
+6. MVC I & II - [JavaMVCApp](https://github.com/ocpodariu/JavaMVCApp)
+7. MVC III (Spring) - [JavaSpringApp](https://github.com/ocpodariu/JavaSpringApp)
